@@ -1,0 +1,14 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "E_Pogodin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
